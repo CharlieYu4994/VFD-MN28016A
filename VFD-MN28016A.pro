@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=VFD.net
+LastNetListRead=VFD-MN28016A.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0

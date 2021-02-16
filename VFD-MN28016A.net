@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source D:\Projects\HDWProject\VFD\VFD.sch)
+    (source D:\Projects\HDWProject\VFD\VFD-MN28016A.sch)
     (date "2021/2/15 23:14:57")
     (tool "Eeschema (5.1.8)-1")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source VFD.sch)
+        (source VFD-MN28016A.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
